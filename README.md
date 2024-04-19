@@ -4,7 +4,6 @@
 This Javascript tools help you to evaluate the contrast ratio between text and background colors on a webpage , ensuring readabilty and accessibilty compilence . The project consist of a set of function and event listners written in Javascript .
 
 
-
 ## Table of content
 
 - descripition 
@@ -33,6 +32,7 @@ Users can use contrast checker using given links.
 
 - solution URL:- https://github.com/rupalshukla82/contrast
 - Live demo:- https://color-contrasts.netlify.app/
+  
 ## Technologies Used
 - HTML
 - Css
